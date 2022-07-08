@@ -1,0 +1,5 @@
+{ "bandname": "Guns and Roses", features: { "vocalist" : "Jimmy Page", "vocalistrating":"9", "vocalistpay" : 8000
+","guitarist":" slash", "guitaristrating":"10","guitaristpay": "6800
+", "bassguitaristname": "Gerzek Mehmet","bassguitaristrating" : "9","bassguitaristpay" : "6000
+","batteristname" : "Orhan Davulcu","batteristrating" : "10","batteristpay" : "7800
+","Guitarmodel" : "casio","Bassguitarmodel" : "yamaha","Batteriesmodel" : "davulcu","Money Left" : "67600"} }
